@@ -1,2 +1,3 @@
-# mysite
-A personal site to showcase my work
+# Portfolio 
+Portfolio of Hamandres 
+built with Static site generator approach.
